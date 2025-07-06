@@ -1,3 +1,3 @@
 # fern
 HELLOOOOOO
-I LOVE yOU
+I LOVE YOU
