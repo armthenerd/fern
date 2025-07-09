@@ -15,7 +15,7 @@
 #background {
   width: 70vmin;
   height: 70vmin;
-  background: #e8e0ff;
+  background: #1a1629;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -33,7 +33,7 @@
   border-top-right-radius: 50%;
   border-bottom: 0;
   box-sizing: border-box;
-  background: #ffdcff;
+  background: #3262ff;
 }
 
 /* Only showing new stuff... */
@@ -49,7 +49,7 @@
   border-bottom-left-radius: 50%;
   border-bottom-right-radius: 50%;
   border-top: 0;
-  background: #ffdcff;
+  background: #3262ff;
 }
 
 /* Only showing new stuff... */
